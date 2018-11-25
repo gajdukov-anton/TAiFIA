@@ -1,0 +1,9 @@
+digraph DetermAutomat {
+0
+1
+2 [shape = box]
+	0->1[label=0]
+	1->2[label=0]
+	2->1[label=0]
+	1->1[label=1]
+}
