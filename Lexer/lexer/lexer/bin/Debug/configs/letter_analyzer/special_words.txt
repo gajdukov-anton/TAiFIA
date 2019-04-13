@@ -1,0 +1,17 @@
+write command
+true const
+false const
+if command
+then command
+else command
+while command
+var command
+begin command
+end command
+read command
+readln command
+writeln command
+for command
+int dataType
+float dataType
+char dataType

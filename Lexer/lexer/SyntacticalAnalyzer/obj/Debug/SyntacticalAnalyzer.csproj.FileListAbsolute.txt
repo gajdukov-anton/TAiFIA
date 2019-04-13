@@ -1,0 +1,11 @@
+E:\учёба\3 курс\ТАиФЯ\проги\лексический анализатор\lexer\SyntacticalAnalyzer\bin\Debug\SyntacticalAnalyzer.exe.config
+E:\учёба\3 курс\ТАиФЯ\проги\лексический анализатор\lexer\SyntacticalAnalyzer\bin\Debug\SyntacticalAnalyzer.exe
+E:\учёба\3 курс\ТАиФЯ\проги\лексический анализатор\lexer\SyntacticalAnalyzer\bin\Debug\SyntacticalAnalyzer.pdb
+E:\учёба\3 курс\ТАиФЯ\проги\лексический анализатор\lexer\SyntacticalAnalyzer\bin\Debug\lexer.exe
+E:\учёба\3 курс\ТАиФЯ\проги\лексический анализатор\lexer\SyntacticalAnalyzer\bin\Debug\lexer.pdb
+E:\учёба\3 курс\ТАиФЯ\проги\лексический анализатор\lexer\SyntacticalAnalyzer\bin\Debug\lexer.exe.config
+E:\учёба\3 курс\ТАиФЯ\проги\лексический анализатор\lexer\SyntacticalAnalyzer\obj\Debug\SyntacticalAnalyzer.csprojAssemblyReference.cache
+E:\учёба\3 курс\ТАиФЯ\проги\лексический анализатор\lexer\SyntacticalAnalyzer\obj\Debug\SyntacticalAnalyzer.csproj.CoreCompileInputs.cache
+E:\учёба\3 курс\ТАиФЯ\проги\лексический анализатор\lexer\SyntacticalAnalyzer\obj\Debug\SyntacticalAnalyzer.csproj.CopyComplete
+E:\учёба\3 курс\ТАиФЯ\проги\лексический анализатор\lexer\SyntacticalAnalyzer\obj\Debug\SyntacticalAnalyzer.exe
+E:\учёба\3 курс\ТАиФЯ\проги\лексический анализатор\lexer\SyntacticalAnalyzer\obj\Debug\SyntacticalAnalyzer.pdb

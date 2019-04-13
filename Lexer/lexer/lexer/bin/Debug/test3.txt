@@ -1,0 +1,8 @@
+ a = 12.45
+witeln(a)
+  
+   asKb = 0HAD.12C
+
+ write(asKb)
+  read 12abc  @ocd  12e+009  12.e09 0HAfe-B
+    fq  0B00110  0O12363   123.34ee  123.33g 

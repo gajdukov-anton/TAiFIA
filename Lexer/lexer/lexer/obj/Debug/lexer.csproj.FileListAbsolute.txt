@@ -1,0 +1,7 @@
+E:\учёба\3 курс\ТАиФЯ\проги\лексический анализатор\lexer\lexer\bin\Debug\lexer.exe.config
+E:\учёба\3 курс\ТАиФЯ\проги\лексический анализатор\lexer\lexer\bin\Debug\lexer.exe
+E:\учёба\3 курс\ТАиФЯ\проги\лексический анализатор\lexer\lexer\bin\Debug\lexer.pdb
+E:\учёба\3 курс\ТАиФЯ\проги\лексический анализатор\lexer\lexer\obj\Debug\lexer.csprojAssemblyReference.cache
+E:\учёба\3 курс\ТАиФЯ\проги\лексический анализатор\lexer\lexer\obj\Debug\lexer.csproj.CoreCompileInputs.cache
+E:\учёба\3 курс\ТАиФЯ\проги\лексический анализатор\lexer\lexer\obj\Debug\lexer.exe
+E:\учёба\3 курс\ТАиФЯ\проги\лексический анализатор\lexer\lexer\obj\Debug\lexer.pdb

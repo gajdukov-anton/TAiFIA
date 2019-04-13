@@ -1,0 +1,90 @@
+22
+Type: Integer
+Value: 0H00FABC123
+NumberSystem: Hexadecimal
+str: 1, column: 1
+
+Type: Error
+Value: +
+str: 1, column: 12
+
+Type: Id
+Value: a
+str: 1, column: 13
+
+Type: Error
+Value: +
+str: 1, column: 14
+
+Type: Id
+Value: b
+str: 1, column: 15
+
+Type: Error
+Value: +
+str: 1, column: 16
+
+Type: Id
+Value: qwertyyugiuopop
+str: 1, column: 17
+
+Type: Error
+Value: [
+str: 1, column: 32
+
+Type: Id
+Value: iuiyygj
+str: 1, column: 33
+
+Type: Error
+Value: ;
+str: 1, column: 40
+
+Type: Error
+Value: '
+str: 1, column: 41
+
+Type: Id
+Value: lkjjhhjhlklk
+str: 1, column: 42
+
+Type: Error
+Value: ;
+str: 1, column: 54
+
+Type: Id
+Value: jhghjkl
+str: 1, column: 55
+
+Type: Error
+Value: ;
+str: 1, column: 62
+
+Type: Id
+Value: iuiyttyi97oppyyulhghgjjjlkty
+str: 1, column: 63
+
+Type: Error
+Value: [
+str: 1, column: 91
+
+Type: Id
+Value: lhj
+str: 1, column: 92
+
+Type: Error
+Value: ,
+str: 1, column: 95
+
+Type: Id
+Value: hgiutyuiuhjhgkjjiuyhjklkjhg
+str: 1, column: 96
+
+Type: Error
+Value: ,
+str: 1, column: 123
+
+Type: Id
+Value: hghjkliopopigflkghjjhjgfdghjhgfdiouytlytkghgfghjklk
+str: 1, column: 124
+
